@@ -5,8 +5,7 @@
 ## Aim:
   To develop a python code that creates a simple feed-forward neural networks or perception with the Sigmoid activation function. The neuron has to be trained such that it can predict the correct output value when provided with a new set of input data.
   
- ![image](https://user-images.githubusercontent.com/75235150/169493976-9b8a00dd-15b4-4199-b580-d3ac5a90ebce.png)
-
+ ![image](https://user-images.githubusercontent.com/93023609/162692440-f59e7ad2-0414-4ddb-8640-fede7a0655f2.png)
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -93,7 +92,8 @@ if __name__=="__main__":
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/75235150/169494037-393a862d-9e23-42d4-900b-1885b2112b40.png)
+![Screenshot_640](https://user-images.githubusercontent.com/75235455/168613096-c802bca1-1f74-43be-82db-0ccc055239b0.png)
+
 
 ## Result:
   Thus created a perception to employ the Sigmoid activation function. This neuron was successfully trained to predict the correct output value, when provided with a new set of input data.
